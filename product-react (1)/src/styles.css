@@ -1,0 +1,45 @@
+.App img {
+  width: 400px;
+  height: 400px;
+  padding-left: 50px;
+  padding-top: 100px;
+  /* border: 2px;
+  border-color: rgb(105, 101, 101);
+  box-shadow: gray; */
+  /* text-align: center; */
+}
+.frame {
+  display: flex;
+  padding-top: 50px;
+}
+#para {
+  font-size: 30px;
+  font-weight: ;
+}
+#dis {
+  padding-left: 170px;
+  padding-right: 150px;
+}
+#prize h3 {
+  color: red;
+  font-size: 25px;
+  font-weight: 10;
+  
+}
+.log img {
+  width: 150px;
+  padding-left: 60px;
+}
+.desc #size {
+  font-size: 15px;
+}
+
+#dis h4{
+  color: rgb(48, 100, 148);
+}
+#prize span{
+  color:black;
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 20px;
+}
